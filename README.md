@@ -264,5 +264,42 @@ TrafficModel: MAE=9.858  Classifier Acc=87.22%
 | Zaid Alishan | [@Md-Zaid-Alishan](https://github.com/Md-Zaid-Alishan) |
 | Prayush Sinha | [@prayush-sinha](https://github.com/prayush-sinha) |
 
+## 👥 Contributions
+
+### Aakanksha Priya
+- Led the overall project planning and implementation.
+- Developed the Level 5 Q-Learning routing module.
+- Trained and evaluated the reinforcement learning model.
+- Authored the system architecture and experimental results sections.
+- Prepared and presented the complete project demonstration.
+
+### Aishwarya Tripathy
+- Developed the Level 3 and Level 4 routing modules.
+- Implemented Dijkstra's, A* Search, and Yen's K-Shortest Paths algorithms.
+- Designed congestion-aware path monitoring and adaptive routing logic.
+- Authored the problem statement and functional requirements.
+- Demonstrated adaptive routing and live path switching during project presentation.
+
+### Astha Pradhan
+- Developed the core graph infrastructure and traffic simulation modules.
+- Built the Linear Regression-based traffic prediction model.
+- Documented the implementation, testing strategy, and unit test coverage.
+- Assisted in preparing implementation-related documentation.
+- Demonstrated graph generation, traffic simulation, and load prediction.
+
+### Md. Zaid Alishan
+- Developed the interactive Streamlit dashboard.
+- Integrated all routing modules into a unified user interface.
+- Implemented JSON logging and analytics visualization.
+- Documented the system design and finalized report formatting.
+- Managed the live dashboard demonstration during project evaluation.
+
+### Prayush Sinha
+- Developed the complete unit testing framework.
+- Implemented and validated routing and Q-Learning test cases.
+- Contributed to testing, results analysis, and documentation.
+- Reviewed the conclusion, future work, and references.
+- Demonstrated the automated test suite and evaluation results.
+
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE) © 2026 Astha Pradhan, Aakanksha Priya, Aishwarya Tripathy, Zaid Alishan, Prayush Sinha
