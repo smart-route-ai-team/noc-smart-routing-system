@@ -254,47 +254,37 @@ TrafficModel: MAE=9.858  Classifier Acc=87.22%
 ![Analytics](screenshots/Screenshot_2026-05-05_144611.png)
 ![ML Prediction](screenshots/Screenshot_2026-05-05_144711.png)
 
-## 👥 Team Members
-
-| Name | GitHub |
-|------|--------|
-| Astha Pradhan | [@astha-1016](https://github.com/astha-1016) |
-| Aakanksha Priya | [@Aakankshapriya2909](https://github.com/Aakankshapriya2909) |
-| Aishwarya Tripathy | [@aishwaryatripathy03](https://github.com/aishwaryatripathy03) |
-| Zaid Alishan | [@Md-Zaid-Alishan](https://github.com/Md-Zaid-Alishan) |
-| Prayush Sinha | [@prayush-sinha](https://github.com/prayush-sinha) |
-
 ## 👥 Contributions
 
-### Aakanksha Priya
+### Aakanksha Priya(https://github.com/Aakankshapriya2909)
 - Led the overall project planning and implementation.
 - Developed the Level 5 Q-Learning routing module.
 - Trained and evaluated the reinforcement learning model.
 - Authored the system architecture and experimental results sections.
 - Prepared and presented the complete project demonstration.
 
-### Aishwarya Tripathy
+### Aishwarya Tripathy(https://github.com/aishwaryatripathy03)
 - Developed the Level 3 and Level 4 routing modules.
 - Implemented Dijkstra's, A* Search, and Yen's K-Shortest Paths algorithms.
 - Designed congestion-aware path monitoring and adaptive routing logic.
 - Authored the problem statement and functional requirements.
 - Demonstrated adaptive routing and live path switching during project presentation.
 
-### Astha Pradhan
+### Astha Pradhan(https://github.com/astha-1016)
 - Developed the core graph infrastructure and traffic simulation modules.
 - Built the Linear Regression-based traffic prediction model.
 - Documented the implementation, testing strategy, and unit test coverage.
 - Assisted in preparing implementation-related documentation.
 - Demonstrated graph generation, traffic simulation, and load prediction.
 
-### Md. Zaid Alishan
+### Md. Zaid Alishan(https://github.com/Md-Zaid-Alishan)
 - Developed the interactive Streamlit dashboard.
 - Integrated all routing modules into a unified user interface.
 - Implemented JSON logging and analytics visualization.
 - Documented the system design and finalized report formatting.
 - Managed the live dashboard demonstration during project evaluation.
 
-### Prayush Sinha
+### Prayush Sinha(https://github.com/prayush-sinha)
 - Developed the complete unit testing framework.
 - Implemented and validated routing and Q-Learning test cases.
 - Contributed to testing, results analysis, and documentation.
